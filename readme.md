@@ -1,0 +1,1 @@
+Visual Paradigm project for IMS Fakturka & partial implementation in Java
